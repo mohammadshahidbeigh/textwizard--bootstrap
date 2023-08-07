@@ -1,5 +1,5 @@
 # TextWizard
-A Text Manipulation App That Gives You A Way To Enhance Your Text Quickly And Efficiently. With Features Like Word Count, Character Count, And Space Removal, You Can Enhance Your Text Quickly And Efficiently. Whether You're A Student, Writer, Or Business Professional, TextWizard Is An Essential Tool To Help You Craft Your Best Work.
+A Text Manipulation App that gives you a way to enhance your text quickly and efficiently. with features like word count, character count, and space removal, you can enhance your text quickly and efficiently. Whether you're a student, writer, or business professional, textwizard is an essential tool to help you craft your best work.
 
 ![Screenshot_20230724_120458](https://github.com/MohammadShahidBeigh/TextWizard/assets/85876937/e38ebe99-0d74-47c8-ac03-40287c842add)
 
